@@ -4117,7 +4117,7 @@ body#root.index.is-loading #intro a[href="#about"] {
 @media screen and (max-width: 480px) {
     body#root.index.is-loading>.inner>section {
         transform: translateY(0.5em);
-        opacity: 0
+        opacity: 100
     }
 }
 
